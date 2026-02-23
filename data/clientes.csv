@@ -1,0 +1,81 @@
+cliente_id,nombre,canal,region,ejecutivo,credito_dias,segmento,venta_anual_potencial_mxn,fecha_alta
+CLI001,Farmacias Guadalajara Nacional,Farmacia Cadena,Occidente,Carlos Mendoza,30,A,2800000,2021-02-27
+CLI002,Farmacias del Ahorro Corporativo,Farmacia Cadena,CDMX,Carlos Mendoza,30,A,2400000,2019-05-01
+CLI003,Farmacias Benavides Nacional,Farmacia Cadena,Norte,Laura Castillo,30,A,1900000,2022-01-25
+CLI004,Farmacias San Pablo CDMX,Farmacia Cadena,CDMX,Carlos Mendoza,30,A,980000,2022-01-11
+CLI005,Farmacias Similares Corporativo,Farmacia Cadena,CDMX,Laura Castillo,30,A,1500000,2018-05-29
+CLI006,Farmacias YZA Sureste,Farmacia Cadena,Sur,Ricardo Navarro,30,B,560000,2019-10-14
+CLI007,Farmacon Occidente,Farmacia Cadena,Occidente,Ana Gutiérrez,30,B,420000,2022-02-14
+CLI008,Farmacias El Fénix,Farmacia Cadena,Occidente,Ana Gutiérrez,30,B,380000,2018-03-31
+CLI009,Super Farmacia Occidente,Farmacia Cadena,Occidente,Ana Gutiérrez,30,B,310000,2019-07-11
+CLI010,Farmacias La Generosa,Farmacia Cadena,Centro,Miguel Herrera,30,C,180000,2018-03-20
+CLI011,Walmart de México Operaciones,Autoservicio,CDMX,Carlos Mendoza,45,A,3200000,2021-10-21
+CLI012,Soriana Supermercados Nacional,Autoservicio,Norte,Laura Castillo,45,A,1800000,2021-10-16
+CLI013,Chedraui Corporativo,Autoservicio,Centro,Miguel Herrera,45,A,1400000,2018-10-23
+CLI014,La Comer / Fresko,Autoservicio,CDMX,Carlos Mendoza,45,B,650000,2019-11-05
+CLI015,HEB México,Autoservicio,Norte,Laura Castillo,30,B,580000,2019-06-06
+CLI016,Mega Soriana,Autoservicio,Norte,Laura Castillo,45,B,490000,2021-08-01
+CLI017,Bodega Aurrera Nacional,Autoservicio,CDMX,Carlos Mendoza,30,A,1200000,2021-01-09
+CLI018,OXXO Región Centro,Conveniencia,CDMX,Miguel Herrera,30,A,1100000,2019-07-21
+CLI019,OXXO Región Occidente,Conveniencia,Occidente,Ana Gutiérrez,30,A,950000,2019-02-09
+CLI020,OXXO Región Norte,Conveniencia,Norte,Laura Castillo,30,A,870000,2020-02-20
+CLI021,7-Eleven México,Conveniencia,CDMX,Miguel Herrera,30,B,380000,2021-04-28
+CLI022,Circle K México,Conveniencia,Norte,Laura Castillo,30,B,310000,2019-06-27
+CLI023,Grupo Nadro Distribución,Mayorista,CDMX,Carlos Mendoza,45,A,2200000,2018-04-11
+CLI024,Casa Marzam,Mayorista,CDMX,Carlos Mendoza,45,A,1700000,2018-06-02
+CLI025,Distribuidora Fármacos Nacionales,Mayorista,Norte,Laura Castillo,45,A,1400000,2018-08-23
+CLI026,Droguería Cosmopolita Nacional,Mayorista,CDMX,Miguel Herrera,45,B,780000,2021-05-20
+CLI027,Distribuidora TAD Occidente,Mayorista,Occidente,Ana Gutiérrez,45,B,560000,2018-07-06
+CLI028,Maypo Distribuidora,Mayorista,Centro,Miguel Herrera,45,B,420000,2020-10-05
+CLI029,Abarrotera del Bajío,Mayorista,Centro,Ricardo Navarro,45,B,380000,2020-04-09
+CLI030,Distribuidora Occidente Salud,Mayorista,Occidente,Ana Gutiérrez,45,C,210000,2018-09-29
+CLI031,IMSS Abasto Nacional,Institucional,CDMX,Ricardo Navarro,60,A,1600000,2018-11-13
+CLI032,ISSSTE Abasto Central,Institucional,CDMX,Ricardo Navarro,60,B,680000,2020-06-01
+CLI033,Hospitales Ángeles Corporativo,Institucional,CDMX,Ricardo Navarro,45,B,520000,2020-01-20
+CLI034,Cruz Roja Mexicana,Institucional,CDMX,Ricardo Navarro,60,B,380000,2019-08-11
+CLI035,Hospital Civil de Guadalajara,Institucional,Occidente,Ana Gutiérrez,60,B,340000,2019-12-24
+CLI036,Secretaría de Salud Jalisco,Institucional,Occidente,Ana Gutiérrez,60,C,280000,2021-10-31
+CLI037,DIF Nacional,Institucional,CDMX,Ricardo Navarro,60,C,220000,2021-02-13
+CLI038,Dist. Farmacéutica Guatemala,Exportación,Centroamérica,Ricardo Navarro,45,A,920000,2021-04-01
+CLI039,Dist. Productos Salud El Salvador,Exportación,Centroamérica,Ricardo Navarro,45,B,480000,2022-02-24
+CLI040,Dist. Honduras Medical Supplies,Exportación,Centroamérica,Ricardo Navarro,60,B,350000,2020-08-12
+CLI041,Latin Products USA Inc.,Exportación,USA,Carlos Mendoza,45,B,620000,2022-05-23
+CLI042,Hispanic Health Products CA,Exportación,USA,Carlos Mendoza,45,C,280000,2019-03-19
+CLI043,Amazon México Marketplace,E-commerce,CDMX,Miguel Herrera,15,A,780000,2019-05-28
+CLI044,Mercado Libre México,E-commerce,CDMX,Miguel Herrera,15,B,420000,2021-03-21
+CLI045,Cornershop / Uber Eats Salud,E-commerce,CDMX,Miguel Herrera,15,B,280000,2019-03-18
+CLI046,Cliente Regional 46,Farmacia Cadena,CDMX,Ana Gutiérrez,15,C,64256,2021-04-10
+CLI047,Cliente Regional 47,Mayorista,Centroamérica,Carlos Mendoza,45,C,132080,2022-06-21
+CLI048,Cliente Regional 48,Farmacia Cadena,Sur,Miguel Herrera,15,C,38905,2022-02-10
+CLI049,Cliente Regional 49,Farmacia Cadena,Norte,Laura Castillo,45,C,113907,2018-07-17
+CLI050,Cliente Regional 50,Farmacia Cadena,Sur,Laura Castillo,45,C,120181,2018-12-21
+CLI051,Cliente Regional 51,Autoservicio Regional,Norte,Miguel Herrera,45,C,71463,2022-03-07
+CLI052,Cliente Regional 52,Farmacia Cadena,Norte,Miguel Herrera,30,C,71421,2021-03-24
+CLI053,Cliente Regional 53,Mayorista,Norte,Ana Gutiérrez,15,C,47156,2022-02-17
+CLI054,Cliente Regional 54,Autoservicio Regional,CDMX,Ana Gutiérrez,30,C,114131,2022-05-02
+CLI055,Cliente Regional 55,Farmacia Independiente,CDMX,Miguel Herrera,45,C,51361,2020-08-28
+CLI056,Cliente Regional 56,Autoservicio Regional,CDMX,Ricardo Navarro,30,C,143711,2022-02-10
+CLI057,Cliente Regional 57,Farmacia Independiente,Sur,Laura Castillo,45,C,44116,2019-08-18
+CLI058,Cliente Regional 58,Farmacia Cadena,Centroamérica,Laura Castillo,30,C,45458,2021-03-05
+CLI059,Cliente Regional 59,Mayorista,CDMX,Miguel Herrera,30,C,94429,2020-12-12
+CLI060,Cliente Regional 60,Farmacia Independiente,Norte,Ana Gutiérrez,30,C,62460,2018-10-04
+CLI061,Cliente Regional 61,Farmacia Independiente,Centroamérica,Carlos Mendoza,45,C,118227,2023-09-06
+CLI062,Cliente Regional 62,Mayorista,Sur,Laura Castillo,15,C,95589,2023-04-20
+CLI063,Cliente Regional 63,Autoservicio Regional,Occidente,Ricardo Navarro,15,C,124733,2023-10-04
+CLI064,Cliente Regional 64,Farmacia Independiente,CDMX,Laura Castillo,15,C,140518,2023-03-09
+CLI065,Cliente Regional 65,Farmacia Independiente,Centro,Ana Gutiérrez,15,C,62653,2024-01-06
+CLI066,Cliente Regional 66,Farmacia Independiente,Norte,Miguel Herrera,30,C,119259,2023-10-20
+CLI067,Cliente Regional 67,Autoservicio Regional,Norte,Ana Gutiérrez,15,C,67325,2023-10-23
+CLI068,Cliente Regional 68,Farmacia Independiente,Centroamérica,Ricardo Navarro,30,C,111484,2023-08-31
+CLI069,Cliente Regional 69,Autoservicio Regional,Occidente,Laura Castillo,15,C,101784,2023-05-05
+CLI070,Cliente Regional 70,Autoservicio Regional,CDMX,Carlos Mendoza,15,C,55033,2023-08-31
+CLI071,Cliente Regional 71,Mayorista,Centroamérica,Miguel Herrera,45,C,43326,2023-07-28
+CLI072,Cliente Regional 72,Autoservicio Regional,Centro,Ricardo Navarro,30,C,104352,2023-04-08
+CLI073,Cliente Regional 73,Farmacia Independiente,Sur,Carlos Mendoza,45,C,129466,2023-02-18
+CLI074,Cliente Regional 74,Farmacia Cadena,Centroamérica,Ricardo Navarro,30,C,135741,2023-02-19
+CLI075,Cliente Regional 75,Farmacia Independiente,CDMX,Ana Gutiérrez,30,C,55730,2023-12-04
+CLI076,Cliente Regional 76,Autoservicio Regional,CDMX,Ana Gutiérrez,45,C,134871,2023-08-09
+CLI077,Cliente Regional 77,Mayorista,Sur,Carlos Mendoza,45,C,74117,2023-07-01
+CLI078,Cliente Regional 78,Mayorista,Norte,Ana Gutiérrez,15,C,105697,2023-08-05
+CLI079,Cliente Regional 79,Farmacia Cadena,Sur,Ana Gutiérrez,30,C,37552,2023-07-30
+CLI080,Cliente Regional 80,Farmacia Cadena,Occidente,Ana Gutiérrez,15,C,42592,2023-08-28

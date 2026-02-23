@@ -1,0 +1,59 @@
+sku,venta_total_mxn,margen_total_mxn,cajas_vendidas,margen_acumulado_pct,clasificacion_abc,nombre,marca,categoria
+SKU030,94383855.36,44257455.36,69620,4.0,A,Termómetro Digital 12/1pz,Jaloma Curación,Material de Curación
+SKU004,82122894.72,38539134.72,60533,7.4,A,Aceite de Argán Premium 12/60ml,Jaloma Belleza,Cuidado Personal
+SKU028,80139297.84,37681497.84,50545,10.8,A,Botiquín Primeros Auxilios Básico 6/1pz,Jaloma Curación,Material de Curación
+SKU002,80000200.8,37535680.8,78638,14.2,A,Aceite de Almendras Dulces 12/250ml,Jaloma Belleza,Cuidado Personal
+SKU040,74408695.5,34942945.5,52621,17.3,A,Guantes de Nitrilo Caja 10/100pz,Jaloma,Accesorios Farmacéuticos
+SKU009,66961310.52,31441670.52,45538,20.1,A,Aceite de Rosa Mosqueta 12/60ml,Jaloma Belleza,Cuidado Personal
+SKU057,64580933.76,30270713.76,81691,22.8,A,Gel Desinfectante Manos 12/1L,Jaloma,Cuidado Personal
+SKU043,61998694.2,29107294.2,36546,25.4,A,Jeringas Desechables 3ml 50/100pz,Jaloma,Accesorios Farmacéuticos
+SKU039,61331724.0,28784124.0,54246,28.0,A,Guantes de Látex Caja 10/100pz,Jaloma,Accesorios Farmacéuticos
+SKU003,61288878.84,28728798.84,77524,30.6,A,Aceite de Aguacate Orgánico 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU012,60083357.04,28202417.04,75907,33.1,A,Gel de Pepino c/ Ácido Hialurónico 12/250ml,Jaloma Belleza,Cuidado Personal
+SKU021,59126362.56,27728242.56,87217,35.6,A,Vendas Elásticas 7.5cm 12/12pz,Jaloma Curación,Material de Curación
+SKU011,57465176.34,26958986.34,78221,38.0,A,Gel de Árnica Antiinflamatorio 12/250ml,Jaloma Belleza,Cuidado Personal
+SKU005,57606633.24,26954583.24,78595,40.4,A,Aceite de Coco Orgánico 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU019,56280500.64,26431100.64,71070,42.8,A,Algodón Absorbente 12/300g,Jaloma Curación,Material de Curación
+SKU022,55039608.12,25823988.12,69561,45.1,A,Vendas Elásticas 10cm 12/12pz,Jaloma Curación,Material de Curación
+SKU056,52346755.56,24550855.56,84230,47.3,A,Jabón Antibacterial Líquido 12/500ml,Jaloma,Cuidado Personal
+SKU023,51735292.8,24266332.8,57227,49.5,A,Curitas Adhesivas Surtidas 24/100pz,Jaloma Curación,Material de Curación
+SKU020,51617721.6,24182841.6,57156,51.7,A,Gasas Estériles 7.5x5cm 12/100pz,Jaloma Curación,Material de Curación
+SKU058,48326600.16,22684520.16,71228,53.7,A,Crema Corporal Humectante 12/250ml,Jaloma Belleza,Cuidado Personal
+SKU031,47546337.54,22316067.54,64693,55.7,A,Aceite para Bebé Hipoalergénico 12/250ml,Jaloma Bebé,Productos para Bebé
+SKU015,47150676.0,22086396.0,69623,57.7,A,Fijador para Cabello Extra Fuerte 12/350ml,Jaloma Belleza,Cuidado Personal
+SKU033,46055543.82,21583823.82,62748,59.6,A,Shampoo para Bebé Sin Lágrimas 12/400ml,Jaloma Bebé,Productos para Bebé
+SKU008,45974270.82,21525845.82,70865,61.6,A,Aceite de Mamey para Cabello 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU007,42227974.8,19797094.8,62308,63.3,A,Aceite de Oliva Cosmético 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU036,41531819.4,19486619.4,73484,65.1,A,Toallitas Húmedas Bebé 12/80pz,Jaloma Bebé,Productos para Bebé
+SKU013,39112399.68,18361999.68,86460,66.7,A,Vaselina Pura 12/215g,Jaloma,Cuidado Personal
+SKU001,38919561.12,18190761.12,57580,68.4,A,Aceite de Almendras Dulces 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU046,36675192.0,17195892.0,64931,69.9,A,Suero Fisiológico 12/500ml,Jaloma,Industria Farmacéutica
+SKU026,36291192.48,17027352.48,80266,71.4,A,Alcohol Desnaturalizado 12/500ml,Jaloma Curación,Material de Curación
+SKU016,35576385.6,16656885.6,63065,72.9,A,Gel para Cabello Extra Fuerte 12/250g,Jaloma Belleza,Cuidado Personal
+SKU024,35303371.92,16551691.92,52088,74.4,A,Cinta Adhesiva Micropore 24/5m,Jaloma Curación,Material de Curación
+SKU025,34115900.22,15993770.22,67119,75.8,A,Solución Antiséptica Yodada 12/120ml,Jaloma Curación,Material de Curación
+SKU014,34010206.56,15951256.56,66885,77.3,A,Gel Antibacterial 12/250ml,Jaloma,Cuidado Personal
+SKU006,33474624.48,15683004.48,53914,78.7,A,Aceite de Ricino Puro 12/120ml,Jaloma Belleza,Cuidado Personal
+SKU010,33300919.8,15587419.8,59045,80.1,B,Agua de Rosas Tónico Facial 12/250ml,Jaloma Belleza,Cuidado Personal
+SKU017,33016836.6,15478716.6,64956,81.5,B,Loción Calamina 12/120ml,Jaloma,Cuidado Personal
+SKU032,33011148.24,15450348.24,48780,82.8,B,Jabón Líquido para Bebé 12/400ml,Jaloma Bebé,Productos para Bebé
+SKU042,32609484.0,15300684.0,48080,84.2,B,Batas Desechables 12/10pz,Jaloma,Accesorios Farmacéuticos
+SKU029,31423797.72,14731857.72,61822,85.5,B,Tela Adhesiva 12/5m,Jaloma Curación,Material de Curación
+SKU035,29647068.66,13911018.66,47685,86.8,B,Crema para Rozaduras 12/120g,Jaloma Bebé,Productos para Bebé
+SKU037,29610984.48,13897374.48,47617,88.0,B,Colonia para Bebé 12/250ml,Jaloma Bebé,Productos para Bebé
+SKU027,29467980.78,13840410.78,74417,89.3,B,Agua Oxigenada 12/480ml,Jaloma Curación,Material de Curación
+SKU038,27381592.8,12852232.8,60539,90.4,B,Jabón en Barra Bebé 24/100g,Jaloma Bebé,Productos para Bebé
+SKU018,25476788.82,11926958.82,64523,91.5,B,Algodón Absorbente 12/100g,Jaloma Curación,Material de Curación
+SKU045,24731445.6,11586645.6,54770,92.5,B,Abatelenguas de Madera 12/500pz,Jaloma,Accesorios Farmacéuticos
+SKU050,24317114.88,11409194.88,53783,93.5,B,Tintura de Yodo 12/30ml,Jaloma,Industria Farmacéutica
+SKU041,24018202.56,11279242.56,53079,94.6,B,Cubrebocas Tricapa 10/50pz,Jaloma,Accesorios Farmacéuticos
+SKU044,18498217.32,8666437.32,54621,95.3,C,Cofias Desechables 12/100pz,Jaloma,Accesorios Farmacéuticos
+SKU047,17120600.7,8031170.7,43283,96.1,C,Glicerina Líquida 12/120ml,Jaloma,Industria Farmacéutica
+SKU048,15978597.12,7495917.12,47126,96.7,C,Bicarbonato de Sodio Farma 12/250g,Jaloma,Industria Farmacéutica
+SKU034,15940566.72,7489026.72,31302,97.4,C,Talco para Bebé 12/200g,Jaloma Bebé,Productos para Bebé
+SKU049,15305584.5,7196944.5,30032,98.0,C,Aceite Mineral USP 12/250ml,Jaloma,Industria Farmacéutica
+SKU051,12304358.4,5760758.4,5453,98.6,C,Envase PET 120ml Transparente 1000/pz,Plásticos Jaloma,Envases y Empaques
+SKU054,11236866.9,5345316.9,5611,99.0,C,Envase HDPE 500ml Blanco 500/pz,Plásticos Jaloma,Envases y Empaques
+SKU052,9562080.6,4512180.6,5611,99.4,C,Envase PET 250ml Transparente 500/pz,Plásticos Jaloma,Envases y Empaques
+SKU055,8243127.0,3860877.0,5843,99.8,C,Dosificador Spray 28mm 1000/pz,Plásticos Jaloma,Envases y Empaques
+SKU053,4945819.2,2321179.2,5468,100.0,C,Tapa Rosca 28mm 2000/pz,Plásticos Jaloma,Envases y Empaques

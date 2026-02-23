@@ -1,0 +1,59 @@
+sku,nombre,marca,categoria,precio_lista_mxn,costo_mxn,peso_kg,unidades_por_caja,rotacion_esperada,temporalidad,margen_bruto_pct
+SKU001,Aceite de Almendras Dulces 12/120ml,Jaloma Belleza,Cuidado Personal,720,360,1.5,12,alta,todo_año,50.0
+SKU002,Aceite de Almendras Dulces 12/250ml,Jaloma Belleza,Cuidado Personal,1080,540,3.0,12,alta,todo_año,50.0
+SKU003,Aceite de Aguacate Orgánico 12/120ml,Jaloma Belleza,Cuidado Personal,840,420,1.5,12,alta,todo_año,50.0
+SKU004,Aceite de Argán Premium 12/60ml,Jaloma Belleza,Cuidado Personal,1440,720,0.8,12,media,todo_año,50.0
+SKU005,Aceite de Coco Orgánico 12/120ml,Jaloma Belleza,Cuidado Personal,780,390,1.5,12,alta,verano,50.0
+SKU006,Aceite de Ricino Puro 12/120ml,Jaloma Belleza,Cuidado Personal,660,330,1.5,12,alta,todo_año,50.0
+SKU007,Aceite de Oliva Cosmético 12/120ml,Jaloma Belleza,Cuidado Personal,720,360,1.5,12,media,todo_año,50.0
+SKU008,Aceite de Mamey para Cabello 12/120ml,Jaloma Belleza,Cuidado Personal,690,345,1.5,12,media,todo_año,50.0
+SKU009,Aceite de Rosa Mosqueta 12/60ml,Jaloma Belleza,Cuidado Personal,1560,780,0.8,12,baja,todo_año,50.0
+SKU010,Agua de Rosas Tónico Facial 12/250ml,Jaloma Belleza,Cuidado Personal,600,300,3.0,12,alta,todo_año,50.0
+SKU011,Gel de Árnica Antiinflamatorio 12/250ml,Jaloma Belleza,Cuidado Personal,780,390,3.0,12,alta,todo_año,50.0
+SKU012,Gel de Pepino c/ Ácido Hialurónico 12/250ml,Jaloma Belleza,Cuidado Personal,840,420,3.0,12,alta,todo_año,50.0
+SKU013,Vaselina Pura 12/215g,Jaloma,Cuidado Personal,480,240,2.6,12,alta,invierno,50.0
+SKU014,Gel Antibacterial 12/250ml,Jaloma,Cuidado Personal,540,270,3.0,12,alta,invierno,50.0
+SKU015,Fijador para Cabello Extra Fuerte 12/350ml,Jaloma Belleza,Cuidado Personal,720,360,4.2,12,media,todo_año,50.0
+SKU016,Gel para Cabello Extra Fuerte 12/250g,Jaloma Belleza,Cuidado Personal,600,300,3.0,12,media,todo_año,50.0
+SKU017,Loción Calamina 12/120ml,Jaloma,Cuidado Personal,540,270,1.5,12,media,verano,50.0
+SKU018,Algodón Absorbente 12/100g,Jaloma Curación,Material de Curación,420,210,1.2,12,alta,todo_año,50.0
+SKU019,Algodón Absorbente 12/300g,Jaloma Curación,Material de Curación,840,420,3.6,12,alta,todo_año,50.0
+SKU020,Gasas Estériles 7.5x5cm 12/100pz,Jaloma Curación,Material de Curación,960,480,1.2,12,alta,todo_año,50.0
+SKU021,Vendas Elásticas 7.5cm 12/12pz,Jaloma Curación,Material de Curación,720,360,1.0,12,alta,todo_año,50.0
+SKU022,Vendas Elásticas 10cm 12/12pz,Jaloma Curación,Material de Curación,840,420,1.3,12,alta,todo_año,50.0
+SKU023,Curitas Adhesivas Surtidas 24/100pz,Jaloma Curación,Material de Curación,960,480,2.4,24,alta,todo_año,50.0
+SKU024,Cinta Adhesiva Micropore 24/5m,Jaloma Curación,Material de Curación,720,360,1.5,24,alta,todo_año,50.0
+SKU025,Solución Antiséptica Yodada 12/120ml,Jaloma Curación,Material de Curación,540,270,1.5,12,alta,todo_año,50.0
+SKU026,Alcohol Desnaturalizado 12/500ml,Jaloma Curación,Material de Curación,480,240,6.0,12,alta,invierno,50.0
+SKU027,Agua Oxigenada 12/480ml,Jaloma Curación,Material de Curación,420,210,5.8,12,alta,todo_año,50.0
+SKU028,Botiquín Primeros Auxilios Básico 6/1pz,Jaloma Curación,Material de Curación,1680,840,3.0,6,baja,todo_año,50.0
+SKU029,Tela Adhesiva 12/5m,Jaloma Curación,Material de Curación,540,270,1.0,12,media,todo_año,50.0
+SKU030,Termómetro Digital 12/1pz,Jaloma Curación,Material de Curación,1440,720,0.5,12,media,invierno,50.0
+SKU031,Aceite para Bebé Hipoalergénico 12/250ml,Jaloma Bebé,Productos para Bebé,780,390,3.0,12,alta,todo_año,50.0
+SKU032,Jabón Líquido para Bebé 12/400ml,Jaloma Bebé,Productos para Bebé,720,360,4.8,12,alta,todo_año,50.0
+SKU033,Shampoo para Bebé Sin Lágrimas 12/400ml,Jaloma Bebé,Productos para Bebé,780,390,4.8,12,alta,todo_año,50.0
+SKU034,Talco para Bebé 12/200g,Jaloma Bebé,Productos para Bebé,540,270,2.4,12,alta,todo_año,50.0
+SKU035,Crema para Rozaduras 12/120g,Jaloma Bebé,Productos para Bebé,660,330,1.5,12,alta,todo_año,50.0
+SKU036,Toallitas Húmedas Bebé 12/80pz,Jaloma Bebé,Productos para Bebé,600,300,6.0,12,alta,todo_año,50.0
+SKU037,Colonia para Bebé 12/250ml,Jaloma Bebé,Productos para Bebé,660,330,3.0,12,media,todo_año,50.0
+SKU038,Jabón en Barra Bebé 24/100g,Jaloma Bebé,Productos para Bebé,480,240,2.4,24,media,todo_año,50.0
+SKU039,Guantes de Látex Caja 10/100pz,Jaloma,Accesorios Farmacéuticos,1200,600,5.0,10,alta,todo_año,50.0
+SKU040,Guantes de Nitrilo Caja 10/100pz,Jaloma,Accesorios Farmacéuticos,1500,750,5.0,10,alta,todo_año,50.0
+SKU041,Cubrebocas Tricapa 10/50pz,Jaloma,Accesorios Farmacéuticos,480,240,2.5,10,alta,invierno,50.0
+SKU042,Batas Desechables 12/10pz,Jaloma,Accesorios Farmacéuticos,720,360,2.0,12,media,todo_año,50.0
+SKU043,Jeringas Desechables 3ml 50/100pz,Jaloma,Accesorios Farmacéuticos,1800,900,5.0,50,alta,invierno,50.0
+SKU044,Cofias Desechables 12/100pz,Jaloma,Accesorios Farmacéuticos,360,180,1.0,12,baja,todo_año,50.0
+SKU045,Abatelenguas de Madera 12/500pz,Jaloma,Accesorios Farmacéuticos,480,240,3.0,12,media,invierno,50.0
+SKU046,Suero Fisiológico 12/500ml,Jaloma,Industria Farmacéutica,600,300,6.0,12,alta,todo_año,50.0
+SKU047,Glicerina Líquida 12/120ml,Jaloma,Industria Farmacéutica,420,210,1.5,12,media,todo_año,50.0
+SKU048,Bicarbonato de Sodio Farma 12/250g,Jaloma,Industria Farmacéutica,360,180,3.0,12,media,todo_año,50.0
+SKU049,Aceite Mineral USP 12/250ml,Jaloma,Industria Farmacéutica,540,270,3.0,12,alta,todo_año,50.0
+SKU050,Tintura de Yodo 12/30ml,Jaloma,Industria Farmacéutica,480,240,0.4,12,media,todo_año,50.0
+SKU051,Envase PET 120ml Transparente 1000/pz,Plásticos Jaloma,Envases y Empaques,2400,1200,15.0,1000,alta,todo_año,50.0
+SKU052,Envase PET 250ml Transparente 500/pz,Plásticos Jaloma,Envases y Empaques,1800,900,12.0,500,alta,todo_año,50.0
+SKU053,Tapa Rosca 28mm 2000/pz,Plásticos Jaloma,Envases y Empaques,960,480,5.0,2000,alta,todo_año,50.0
+SKU054,Envase HDPE 500ml Blanco 500/pz,Plásticos Jaloma,Envases y Empaques,2100,1050,14.0,500,alta,todo_año,50.0
+SKU055,Dosificador Spray 28mm 1000/pz,Plásticos Jaloma,Envases y Empaques,1500,750,6.0,1000,media,todo_año,50.0
+SKU056,Jabón Antibacterial Líquido 12/500ml,Jaloma,Cuidado Personal,660,330,6.0,12,alta,invierno,50.0
+SKU057,Gel Desinfectante Manos 12/1L,Jaloma,Cuidado Personal,840,420,12.0,12,alta,invierno,50.0
+SKU058,Crema Corporal Humectante 12/250ml,Jaloma Belleza,Cuidado Personal,720,360,3.0,12,media,invierno,50.0

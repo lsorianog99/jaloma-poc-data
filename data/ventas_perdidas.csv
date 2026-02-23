@@ -1,0 +1,7 @@
+sku,nombre,marca,quiebre_inicio,quiebre_fin,dias_sin_stock,cajas_perdidas_estimadas,venta_perdida_mxn,margen_perdido_mxn,temporada
+SKU014,Gel Antibacterial 12/250ml,Jaloma,2023-11-15,2023-12-05,20,4608,2289254.4,1144627.2,Gripe/Respiratoria
+SKU014,Gel Antibacterial 12/250ml,Jaloma,2024-01-10,2024-01-25,15,3456,1716940.8,858470.4,Gripe/Respiratoria
+SKU041,Cubrebocas Tricapa 10/50pz,Jaloma,2023-10-20,2023-11-08,19,3775,1667040.0,833520.0,Gripe/Respiratoria
+SKU041,Cubrebocas Tricapa 10/50pz,Jaloma,2024-11-01,2024-11-18,17,3377,1491283.2,745641.6,Gripe/Respiratoria
+SKU020,Gasas Estériles 7.5x5cm 12/100pz,Jaloma Curación,2024-06-01,2024-06-18,17,1821,1608307.2,804153.6,Regular
+SKU001,Aceite de Almendras Dulces 12/120ml,Jaloma Belleza,2024-04-25,2024-05-12,17,1858,1230739.2,615369.6,Regular
